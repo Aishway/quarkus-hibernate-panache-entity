@@ -1,0 +1,9 @@
+1) Write a GET method that returns the number of pirates registered in list.
+
+2) Prepare a GET method that returns a list of pirates sorted by name.
+
+3) Prepare a method that add new ship and new pirate to the list. The request must contain both objects.
+
+4) Write method which changes the status of the pirate named "Alfonz" to “dead”.
+
+5) Delete all ships from the list that start with the specified character (“B”).

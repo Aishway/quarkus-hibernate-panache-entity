@@ -1,0 +1,17 @@
+1) Write a POST method which receives the list of pirates on the ship and stores it in the database.
+
+2) Add a GET method that returns a list of alive pirates.
+
+3) Prepare a method that returns the number of living pirates on the ship.
+
+4) Write a PUT method that changes the pirate’s name.
+
+5) Write a GET method using SQL Query that returns a pirate with the captain function. If the captain is not on the ship, the function returns the status not found.
+
+6) Write a GET method which returns list of pirates sorted by name and status.
+
+7) Write a POST method which receives the list of ships and stores it in the database.
+
+8) Prepare a GET method that returns list of large ships.
+
+9) Write a PUT method that changes the ship’s name.
